@@ -1,3 +1,5 @@
 # FriendFinder
 
-[For a link to the app...](https://drive.google.com/open?id=1WOMIorGrY2K_oJvV3Gy14qM28iOfeF5Y)
+I've tried four times to deply to Heroku, same error as the first time, Method not allowed.  I don't think we ever figured out why it worked the first night on the second try.  Anyway, here is the error.
+
+[Here is the error...](https://git.heroku.com/still-atoll-89175.git)
